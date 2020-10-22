@@ -1,10 +1,16 @@
 # Pyber Analysis
 
 ## Overview of Project
-Purpose of new analysis
+In this project, I served as a Data Analyst for PyBer and was tasked with analyzing large datasets and creating visualizations to display the differences in ride-sharing data between Urban, Suburban, and Rural cities. To complete the new analysis, I was given the following tasks:
+- Create a summary DataFrame of the ride-sharing data by city type
+- Create a multiple-line graph that shows the total weekly fares for each city type using Pandas and Matplotlib
 
 ## Results
-Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types
+Total Rides
+Total Drivers
+Total Fares
+Average Fare per Ride
+Average Fare per Driver
 
 ## Summary
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types
