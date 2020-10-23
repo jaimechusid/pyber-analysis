@@ -28,4 +28,7 @@ A full breakdown of the discussed metrics is shown in the table below:
 ![Full Breakdown](Resources/full_data.png)
 
 ## Summary
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types
+Based on the results, my recommendations to the CEO regarding disparities among the city types are:
+1. 
+2. 
+3. 
