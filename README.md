@@ -8,7 +8,7 @@ In this project, I served as a Data Analyst for PyBer and was tasked with analyz
 ## Results
 Total Rides
 - Urban cities have significantly more rides than Rural and Suburban cities, with 1,625 out of a total of 2,375. Rural cities had 125 rides and Suburban cities had 625 rides. A breakdown of the total rides between the cities is shown in the pie chart below.
-- ![% of Total Rides by City Type]('/analysis/Fig6.png')
+- ![% of Total Rides by City Type](analysis/Fig6.png)
 
 Total Drivers
 Total Fares
