@@ -29,6 +29,6 @@ A full breakdown of the discussed metrics is shown in the table below:
 
 ## Summary
 Based on the results, my recommendations to the CEO regarding disparities among the city types are:
-1. Ride-sharing seems to be the most popular in Urban cities, based on the number of rides and drivers. However, the average fare per driver of $0.67 is extremely low, so PyBer should make some changes in its business model to generate more profit with Urban cities. 
+1. Ride-sharing seems to be the most popular in Urban cities, based on the number of rides and drivers. However, the average fare per driver of $0.67 is extremely low, so PyBer should make some changes in its business model to generate more profit in Urban cities. 
 2. The average fare per ride is the lowest in Urban cities, the most popular city type for ride-sharing, and is higher for Suburban and Rural cities where ride-sharing is not as popular. To attract more customers in Rural and Suburban cities, I would recommend lowering the fare. The increase in customers will hopefully in turn generate more revenue to make up for the initial decrease when prices are lowered. 
 3. Focus on growing PyBer's presence in Rural and Suburban cities. Since PyBer seems to be doing extremely well in Urban cities, try to mimic the business practices in the other city types as well. To do this, start with trying to find more drivers in the other city types, as more available drivers will hopefully increase the number of customers and rides.
