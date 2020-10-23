@@ -25,7 +25,7 @@ Average Fare per Driver
 - The average fare per driver for Rural, Suburban, and Urban cities are $8.06, $2.26, and $0.67, respectively. Although Urban cities have the highest fares and number of drivers, the fare per driver is the lowest by far. 
 
 A full breakdown of the discussed metrics is shown in the table below:
--![Full Breakdown](Resources/Screen Shot 2020-10-23 at 9.21.30 AM)
+-![Full Breakdown](Resources/full_data.png)
 
 ## Summary
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types
